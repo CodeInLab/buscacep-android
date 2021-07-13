@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BuscaCep</string>
+    <string name="buscar_cep_pelo_endereco">Buscar CEP pelo endereço</string>
+    <string name="digite_rua">Digite a rua...</string>
+    <string name="digite_cidade">Digite a cidade...</string>
+    <string name="buscar">Buscar</string>
+    <string name="buscar_endereco_pelo_cep">Buscar endereço pelo CEP</string>
+    <string name="digite_cep">Digite o CEP...</string>
+</resources>
